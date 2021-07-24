@@ -1,6 +1,5 @@
 body {
-  background-color: #333333;
-  justify-content: center;
+  background-color: #303245;
   height: 100vh;
 }
 
@@ -52,19 +51,15 @@ body {
 
 table.BENEFIT {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #1F1F1F;
+  background-color: #242424;
   width: 500px;
   height: 200px;
+  border-radius: 30px;
 }
-table.BENEFIT td, table.BENEFIT th {
-  border: 3px solid #999999;
-}
+
 table.BENEFIT tbody td {
   font-size: 20px;
   color: #ffffff;
-}
-table.BENEFIT thead {
-  background: #0057A8;
 }
 table.BENEFIT thead th {
   font-size: 21px;
