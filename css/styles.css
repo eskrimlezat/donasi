@@ -25,6 +25,17 @@ body {
     font-weight: 600;
   }
 
+  .bottom {
+    color: #eee;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-top:7%;
+  }
+  .parag-1 {
+    font-weight: bold;
+  }
+
+  
   .submit {
     background-color: #1A1A1A;
     border-radius: 12px;
@@ -107,3 +118,4 @@ label {
   overflow: show;
   margin-top: -6px;
 }
+

@@ -66,8 +66,8 @@ body {
     position: absolute;
     top: -20px;
     transform: translateY(0);
-    transition: transform 200ms;
-    width: 70px;
+    transition: transform 500ms;
+    width: 64px;
   }
   
   .cut-1{
@@ -91,7 +91,7 @@ body {
     pointer-events: none;
     position: absolute;
     transform-origin: 0 50%;
-    transition: transform 200ms, color 200ms;
+    transition: transform 500ms, color 500ms;
     top: 20px;
   }
   .bottom {
