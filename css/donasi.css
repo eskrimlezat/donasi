@@ -97,9 +97,10 @@ body {
   .bottom {
       color: #eee;
       font-weight: 600;
+      position:absolute;
       justify-content:center;
       font-family: sans-serif;
-      bottom: 5px;
+      bottom: 2vh;
     }
 
   .input:focus ~ .placeholder,
