@@ -100,7 +100,7 @@ body {
       position:absolute;
       justify-content:center;
       font-family: sans-serif;
-      margin-top:45%;
+      bottom: 5px;
     }
 
   .input:focus ~ .placeholder,
