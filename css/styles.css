@@ -3,7 +3,7 @@ body {
   height: 100vh;
 }
   .topnav {
-    position: absolute;
+    position: relative;
     background: #0057a8;
     padding: 30px 45%;
 
