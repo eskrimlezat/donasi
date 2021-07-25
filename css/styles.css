@@ -74,20 +74,22 @@ body {
 table.BENEFIT {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #242424;
-  width: 500px;
-  height: 200px;
+  width:70vh;
+  height:30vh;
   border-radius: 30px;
-  position:relative
+  position:relative;
 }
 
 table.BENEFIT tbody td {
-  font-size: 20px;
+  font-size: 3vh;
   color: #ffffff;
+  margin-top:auto;
 }
 table.BENEFIT thead th {
   font-size: 21px;
   font-weight: bold;
   color: #ffffff;
+  margin-top: ;
 }
 
 
